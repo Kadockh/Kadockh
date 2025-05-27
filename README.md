@@ -2,7 +2,7 @@
 
 
 ## Sobre Mim
-Advogado por formação, desenvolvedor por paixão.
+Advogado por formação, desenvolvedor por paixão.  
 Deixei os tribunais para mergulhar de vez no mundo do código, onde encontrei a liberdade de criar, errar e evoluir todos os dias.
 
 Sou lutador de jiu-jitsu, o que me ensinou na prática sobre disciplina, resiliência e foco, qualidades que levo comigo em cada projeto.
