@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Andrey Kadoch
 
 
-## Sobre Min
+## Sobre Mim
 Advogado por formação, desenvolvedor por paixão.
 Deixei os tribunais para mergulhar de vez no mundo do código, onde encontrei a liberdade de criar, errar e evoluir todos os dias.
 
